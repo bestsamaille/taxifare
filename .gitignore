@@ -7,6 +7,7 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venvs
 
-*.ipynb
+models
+*.joblib
